@@ -1,5 +1,5 @@
-# msevent-iasc
-MS Event Infrastructure as Code
+# MS Event IasC
+Microsoft Event Infrastructure as Code
 
 IasC  
 
